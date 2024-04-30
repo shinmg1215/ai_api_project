@@ -1,8 +1,7 @@
 # MobileBERT를 활용한 pc 게임 평점 분석
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
-## 1. 개요 
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 ### 1.1 문재 정의
 전세계 사람들이 즐기는 pc게임중 역대 최고의 pc게임별 평점과 리뷰를 분석할려고 한다.
 
